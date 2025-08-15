@@ -1,0 +1,14 @@
+pysqlite3-binary
+streamlit
+unstructured
+langchain
+langchain-openai
+langchain-community
+chromadb
+tiktoken
+openai
+python-dotenv
+yt-dlp
+trafilatura
+requests
+beautifulsoup4
