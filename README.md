@@ -3,7 +3,7 @@ This project is a sophisticated, multi-modal AI Digital Twin of Elon Musk, built
 
 This application serves as a comprehensive portfolio piece demonstrating a full-cycle AI engineering project, from resilient data collection to a polished, interactive web application.
 
-Live Demo URL: https://nirumutha-ultimate-twin.streamlit.app/
+Live Demo URL: https://nirajmutha-musk-twin.streamlit.app/
 
 ✨ Key Features & Solutions
 This project goes beyond a standard RAG implementation by incorporating several features designed to solve real-world engineering challenges.
